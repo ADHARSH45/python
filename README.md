@@ -1,0 +1,1 @@
+This repository contains code, projects, and assignments completed during the UST Data Engineering Training Program. It covers the full lifecycle of a data engineer using Python, from core programming to advanced data pipelines.
